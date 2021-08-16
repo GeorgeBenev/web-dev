@@ -1,2 +1,3 @@
 # web-dev
-My web dev projects
+# Here push some basic web dev projects I've created. 
+# For educational purposes.
